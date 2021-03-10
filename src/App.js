@@ -4,8 +4,8 @@ import Home from './Components/Home/Home';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
+  
 } from "react-router-dom";
 import NotFound from './Components/NotFound/NotFound';
 import SingleUser from './Components/SingleUser/SingleUser';
